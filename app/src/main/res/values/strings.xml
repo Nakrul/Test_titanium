@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test_titanium</string>
+    <string name="cur_level">Current level : %1$d</string>
+    <string name="cur_score">Current score : %1$d</string>
+    <string name="start_game">Start Game</string>
+    <string name="final_score">Score: %d</string>
+    <string name="lose_mess">You lose!</string>
+    <string name="won_mess">You won!</string>
+    <string name="exit">Exit</string>
+    <string name="again">Again</string>
+</resources>
